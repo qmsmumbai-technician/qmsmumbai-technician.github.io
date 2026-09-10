@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.abodedigital.glambook",
-      "sha256_cert_fingerprints": ["45:6E:CC:5C:DD:F9:2A:C2:ED:72:CE:84:CC:B6:9B:AD:8E:BC:E9:77:65:A1:A5:5D:B5:48:14:4F:48:BD:C1:A8"]
+      "sha256_cert_fingerprints": ["DB:41:E9:EF:0B:01:8B:04:09:16:7A:5F:43:EA:39:5B:73:4E:7A:CB:A2:26:96:F4:EC:B1:5C:09:86:B6:B8:C0"]
     }
   },
   {
