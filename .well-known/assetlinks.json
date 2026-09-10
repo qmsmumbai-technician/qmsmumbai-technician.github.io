@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.abodedigital.glambook",
+        "sha256_cert_fingerprints": ["45:6E:CC:5C:DD:F9:2A:C2:ED:72:CE:84:CC:B6:9B:AD:8E:BC:E9:77:65:A1:A5:5D:B5:48:14:4F:48:BD:C1:A8"]
+      }
+    }]
