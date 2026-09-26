@@ -14,5 +14,13 @@
       "package_name": "io.github.qmsmumbai_technician.twa",
       "sha256_cert_fingerprints": ["18:ED:83:9B:C6:45:1B:47:89:8A:BC:01:51:A8:88:55:DE:A5:39:3D:5A:35:07:D2:F2:B9:3D:CC:42:A8:92:56"]
     }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.abodedigital.fittrack",
+    "sha256_cert_fingerprints": ["49:AD:C4:63:0D:36:D1:DE:96:6F:5A:B4:78:07:C6:70:11:39:C2:7C:65:79:59:0F:2A:C3:C3:02:50:C2:09:0E"]
   }
+}
 ]
